@@ -1,2 +1,2 @@
 import streamlit
-streamlit.Title("Hiii I'm Sajivini")
+streamlit.title("Hiii I'm Sajivini")
